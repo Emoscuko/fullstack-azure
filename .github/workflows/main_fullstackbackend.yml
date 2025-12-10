@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: "fullstackbackend"
           slot-name: "Production"
-          package: "restful-web-services/target/*.jar"
+          package: "**/*.jar"
